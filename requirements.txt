@@ -1,0 +1,14 @@
+opencv-python
+tensorflow
+flask
+flask-socketio
+numpy
+pillow
+google-generativeai
+python-dotenv
+mediapipe
+matplotlib
+seaborn
+python-engineio
+python-socketio
+eventlet
