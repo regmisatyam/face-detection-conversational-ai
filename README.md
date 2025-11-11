@@ -25,7 +25,8 @@ A real-time AI system that detects facial emotions from live video feed and enga
 
 1. **Clone the repository**
 ```bash
-git clone <your-repo-url>
+git clone [<(https://github.com/regmisatyam/face-detection-conversational-ai)>](https://github.com/regmisatyam/face-detection-conversational-ai)
+
 cd fdtn
 ```
 
