@@ -1,4 +1,4 @@
-# AI Emotion Detection & Conversation System
+# Facial Expression Recognition and Response
 
 A real-time AI system that detects facial emotions from live video feed and engages in emotionally-aware conversations using Google's Gemini AI.
 
