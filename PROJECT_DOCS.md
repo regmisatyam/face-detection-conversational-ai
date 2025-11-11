@@ -1,4 +1,4 @@
-#  AI Emotion Detection & Conversation System
+#  Facial Expression Recognition and Response
 
 A comprehensive real-time AI system that detects facial emotions from live video feed and engages in emotionally-aware conversations using Google's Gemini AI (gemma-2-27b-it).
 
@@ -272,6 +272,3 @@ This project is for educational and research purposes. Ensure proper licensing f
 
 ---
 
-**Built with ❤️ for emotion-aware AI interactions**
-
-*Ready to detect emotions and have meaningful AI conversations? Run `python app.py` and let's get started!* 
